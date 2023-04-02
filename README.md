@@ -5,5 +5,3 @@ Learning Managment System (LMS) in Django, Django Rest Framework and Reactjs
 -   Pay ($110) at https://www.paypal.me/codeartisanlab (Global)
 -   Pay (Rs. 8800) via UPI "shobhathakur0859@okaxis" (India)
 -   Send me your git username or email at codeartisanlab2607[at]gmail[dot]com
-
-Note: Price can be change according to USD rate
